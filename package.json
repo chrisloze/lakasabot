@@ -1,6 +1,6 @@
 {
   "name": "index.js",
-"scripts":{
+"scripts": {
 "start": "node index.js"
 },
 
